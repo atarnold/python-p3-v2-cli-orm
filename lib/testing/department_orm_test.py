@@ -228,3 +228,4 @@ class TestDepartment:
                 (employee1.id, employee1.name, employee1.job_title, employee1.department_id))
         assert ((employees[1].id, employees[1].name, employees[1].job_title, employees[1].department_id) ==
                 (employee2.id, employee2.name, employee2.job_title, employee2.department_id))
+                
